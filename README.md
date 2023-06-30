@@ -1,2 +1,1 @@
-# omg
-Repository for OMG Release
+# Repository for OMG Release
